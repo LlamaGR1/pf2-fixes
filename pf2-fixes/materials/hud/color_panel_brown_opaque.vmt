@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture"	"HUD\color_panel_brown_opaque"
+	"$alphatest"	1
+	"$allowAlphaToCoverage"	1
+}
