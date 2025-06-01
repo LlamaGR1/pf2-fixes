@@ -15,6 +15,8 @@
   - NewsPanel has wrong BgColor
   - "TitleLabel" & "AuthorLabel" too high ypos
   - Call Vote buttons dont have sounds when pressed
-  - (In-Game) Certain menus have see-through corners when another menu behind (ex. Call Vote) - ***Fix found***
+  - (In-Game) Certain menus have see-through corners when another menu behind (ex. Call Vote) - ***Fix found***[^2]
 
- [^1]: the reason for deleting these parameters is; autoResize, pinCorner, tabPosition, dulltext, brighttext, default, are not needed, "west" is already the default value for "textAlignment", sound_depressed & sound_released are aalso not needed since the buttons already have sounds themselves, removing all these does not affect or break anything
+[^1]: the reason for deleting these parameters is; autoResize, pinCorner, tabPosition, dulltext, brighttext, default, are not needed, "west" is already the default value for "textAlignment", sound_depressed & sound_released are aalso not needed since the buttons already have sounds themselves, removing all these does not affect or break anything
+
+[^2]: ***Zoom in image*** ![call vote fix](https://github.com/user-attachments/assets/d77d24ad-8e0f-4597-9c31-39c4ac266f94)
