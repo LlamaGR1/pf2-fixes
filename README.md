@@ -9,7 +9,7 @@
   - Tutorial button no longer clickable (ToolTip still present)
   - music, mute players & vote call buttons are now consistent
   - mute players & call vote buttons are now background colored like the music buttons
-  - renamed the "ExitButton" to "QuitButton" & "LoadoutButton" to ""
+  - renamed the "ExitButton" to "QuitButton" & "LoadoutButton" to "PlayerInfoButton"
 
 - other issues
   - NewsPanel has wrong BgColor
